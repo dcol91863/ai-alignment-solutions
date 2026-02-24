@@ -9,7 +9,9 @@ A comprehensive guide exploring approaches to solve the AI alignment problem as 
 3. [Proposed Solutions](#proposed-solutions)
 4. [Implementation Strategies](#implementation-strategies)
 5. [Research Directions](#research-directions)
-6. [Physical AI Alignment](./PHYSICAL_AI_ALIGNMENT.md)
+6. [Specialized Topics](#specialized-topics)
+   - [Physical AI Alignment](./PHYSICAL_AI_ALIGNMENT.md)
+   - [Multi-Agent Alignment at Scale](./MULTI_AGENT_ALIGNMENT.md)
 7. [Contributing](#contributing)
 
 ## The Problem

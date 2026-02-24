@@ -32,6 +32,16 @@
 - Mazo Jr, M., & Tabuada, P. (2011). "Symbolic approximate time-optimal control"
 - Wongpiromsarn, T., et al. (2011). "Formal Methods for Control Synthesis"
 
+### Multi-Agent Alignment & Coordination
+- Bond, A. H., & Gasser, L. (1988). "Readings in Distributed Artificial Intelligence"
+- Lamport, L., et al. (1982). "The Byzantine Generals Problem"
+- Castro, M., & Liskov, B. (1999). "Practical Byzantine Fault Tolerance"
+- Bonabeau, E., et al. (1999). "Swarm Intelligence: From Natural to Artificial Systems"
+- Wooldridge, M. (2009). "An Introduction to MultiAgent Systems"
+- Nisan, N., et al. (2007). "Algorithmic Game Theory"
+- Kairouz, P., et al. (2021). "Advances and Open Problems in Federated Learning"
+- Hadfield-Menell, D., et al. (2016). "Multi-Agent Inverse Reinforcement Learning"
+
 ## Key Organizations & Publications
 
 ### Research Centers
@@ -47,6 +57,9 @@
 | MIT CSAIL | Robotics, perception, control | csail.mit.edu |
 | UC Berkeley Robotics Lab | Learning for control | eecs.berkeley.edu |
 | ETH Autonomous Systems Lab | Flying robots, safe control | asl.ethz.ch |
+| Center for Security & Emerging Technology (CSET) | Multi-agent systems, AI coordination | csis.org/cset |
+| Santa Fe Institute | Complex systems, emergence | santafe.edu |
+| UC Berkeley Center for Long-Term Cybersecurity | Multi-agent AI safety | longtermsecurity.org |
 
 ### Venues for Alignment Research
 - NeurIPS Safety Workshop
