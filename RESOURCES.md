@@ -25,6 +25,13 @@
 - Gopinath, D., et al. (2021). "Certified Robustness to Adversarial Examples"
 - Seshia, S.A., et al. (2022). "Towards Trustworthy AI System Development"
 
+### Physical AI & Robotics Alignment
+- García, J., & Fernández, F. (2015). "A Comprehensive Survey on Safe Reinforcement Learning"
+- Lasota, P.A., et al. (2017). "Toward Safe Close-Proximity Human-Robot Interaction with Standard Industrial Robots"
+- Eykholt, K., et al. (2018). "Physical Adversarial Examples for Object Detectors"
+- Mazo Jr, M., & Tabuada, P. (2011). "Symbolic approximate time-optimal control"
+- Wongpiromsarn, T., et al. (2011). "Formal Methods for Control Synthesis"
+
 ## Key Organizations & Publications
 
 ### Research Centers
@@ -36,6 +43,10 @@
 | DeepMind | Safety, alignment | deepmind.com |
 | Redwood Research | Mechanistic interpretability | redwoodresearch.org |
 | MIRI | Agent foundations, alignment | intelligence.org |
+| Stanford Robotics Lab | Manipulation, learning robotics | stanford.edu/group/robotics |
+| MIT CSAIL | Robotics, perception, control | csail.mit.edu |
+| UC Berkeley Robotics Lab | Learning for control | eecs.berkeley.edu |
+| ETH Autonomous Systems Lab | Flying robots, safe control | asl.ethz.ch |
 
 ### Venues for Alignment Research
 - NeurIPS Safety Workshop
@@ -69,6 +80,10 @@
 - **Transformer Interpretability**: transformer-circuits.pub
 - **Mechanistic Interpretability**: github.com/ArthurConmy/sae-demo
 - **Constitutional AI Training**: github.com/anthropics/constitutional-ai
+- **ROS (Robot Operating System)**: ros.org - Industry standard for robotics
+- **SafeRL Library**: Safe reinforcement learning implementations
+- **Gazebo**: ros.org/gazebo - Robotics simulation environment
+- **PyBullet**: Physics simulation for learning and control
 
 ## Learning Resources
 
